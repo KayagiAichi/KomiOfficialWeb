@@ -48,6 +48,6 @@
 }
 @media (max-width: 768px){
     body{
-        background-position: 60% top;
+        background-position: 60% top !important;
     }
 }

@@ -46,3 +46,8 @@
     color: #007bff;
     transform: scale(1.1);
 }
+@media (max-width: 768px){
+    body{
+        background-position: 60% top;
+    }
+}
